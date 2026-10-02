@@ -1,33 +1,33 @@
-namespace AotForms
+Namespace AotForms
 {
     internal enum Bones : uint
     {
-        Head = 0x400,
+        Head = 0x49c,
 
-        Spine = 0x3B0,
+        Spine = 0x4a4,
 
-        Hip = 0x410,
+        Hip = 0x4a0,
 
-        Root = 0x418,
+        Root = 0x4b0,
 
         LeftAnkle = 0x4b8,
 
         RightAnkle = 0x4bc,
 
-        LeftFoot = 0x424,
+        LeftFoot = 0x4c0,
 
-        RightFoot = 0x428,
+        RightFoot = 0x4c4,
 
-        LeftShoulder = 0x434,
+        LeftShoulder = 0x4d0,
 
-        RightShoulder = 0x438,
+        RightShoulder = 0x4d4,
 
         RightHand = 0x498,
 
-        LeftHand = 0x42C,
+        LeftHand = 0x4c8,
 
-        RightElbow = 0x444,
+        RightElbow = 0x4e0,
 
-        LeftElbow = 0x448,     // LeftElbow
+        LeftElbow = 0x4e4,     // LeftElbow
     }
 }

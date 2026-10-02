@@ -5,37 +5,37 @@ namespace AotForms
     internal static class Offsets
     {
         internal static uint Il2Cpp = 0x0;
-        internal static uint InitBase = 0xA57115C;
+        internal static uint InitBase = 0xA342EFC;
         internal static uint StaticClass = 0x5C;
 
         internal static uint CurrentMatch = 0x50;
-        internal static uint MatchStatus = 0x74;
-        internal static uint LocalPlayer = 0x7C;
+        internal static uint MatchStatus = 0x8C;
+        internal static uint LocalPlayer = 0x94;
         internal static uint DictionaryEntities = 0x68;
 
-        internal static uint Player_IsDead = 0x4C;
-        internal static uint Player_Name = 0x294;
-        internal static uint Player_Data = 0x44;
-        internal static uint Player_ShadowBase = 0x15F0;
+        internal static uint Player_IsDead = 0x50;
+        internal static uint Player_Name = 0x31C;
+        internal static uint Player_Data = 0x48;
+        internal static uint Player_ShadowBase = 0x1A60;
         internal static uint XPose = 0x78;
 
-        internal static uint AvatarManager = 0x468;
-        internal static uint Avatar = 0x94;
-        internal static uint Avatar_IsVisible = 0x7C;
-        internal static uint Avatar_Data = 0x10;
-        internal static uint Avatar_Data_IsTeam = 0x51;
+        internal static uint AvatarManager = 0x504;
+        internal static uint Avatar = 0xA8;
+        internal static uint Avatar_IsVisible = 0x95;
+        internal static uint Avatar_Data = 0x14;
+        internal static uint Avatar_Data_IsTeam = 0x59;
         internal static uint PlayerID = 0x268;
 
         internal static uint BaseProfileInfo = 0x18cc;
         internal static uint IsClientBot = 0x324;
-        internal static uint FollowCamera = 0x3F8;
-        internal static uint Camera = 0x14;
-        internal static uint MainCameraTransform = 0x200;
+        internal static uint FollowCamera = 0x494;
+        internal static uint Camera = 0x18;
+        internal static uint MainCameraTransform = 0x28C;
 
-        internal static uint AimRotation = 0x3B0;
+        internal static uint AimRotation = 0x440;
         internal static uint CurrentObserver = 0xB4;
         internal static uint ObserverPlayer = 0x28;
-        internal static uint Weapon = 0x3A4;
+        internal static uint Weapon = 0x434;
         internal static uint WeaponData = 0x58;
         internal static uint WeaponRecoil = 0xC;
         internal static uint UnkPlayerWeaponInfoClass = 0x4a8;
@@ -56,12 +56,12 @@ namespace AotForms
         internal static uint GameTimer = 0x10;
         internal static uint FixedDeltaTime = 0x24;
         internal static uint pomba;
-        internal static uint ViewMatrix = 0xBC;
+        internal static uint ViewMatrix = 0xE8;
 
-        internal static uint sAim1 = 0x4E8;
-        internal static uint sAim2 = 0x8F8;
-        internal static uint sAim3 = 0x48; // Thường là StartPosition
-        internal static uint sAim4 = 0x34; // Thường là RayDir
+        internal static uint sAim1 = 0x9D0;
+        internal static uint sAim2 = 0x58C;
+        internal static uint sAim3 = 0x38; // Thường là StartPosition
+        internal static uint sAim4 = 0x2C; // Thường là RayDir
 
         internal static uint IS_FIRING = 0x58C;
     }
